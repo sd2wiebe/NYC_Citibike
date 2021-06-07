@@ -30,7 +30,43 @@ When we break down trip duration by gender, we see much of the same. Male, Femal
 
 It is clear from both of our trip duration graphs that the bulk of use for Citibikes in NYC is only for a short trip of usually around 5 minutes.
 
-### 
+### Trips by Hour of the Week:
+
+
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Trips%20by%20Weekday%20hour.png)
+
+</p>
+
+### Trips by Hour of the week (Gender):
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Trips%20by%20Weekday%20hour.png)
+
+</p>
+
+### Usertypes:
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/short%20term%20vs%20annual%20subs.png)
+
+</p>
+
+### Average trip duration by Birth Year:
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/average%20trip%20duration%20birth%20year.png)
+
+</p>
+
+### Trips by Gender by Day of the Week:
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/user%20type%20trips%20by%20gender%20weekday.png)
+
+</p>
+
 There is a description of the results for each visualization (7 pt)
 
 ## Summary
