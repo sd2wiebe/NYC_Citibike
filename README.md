@@ -79,17 +79,26 @@ This area graph shows the relationship between the average trip duration and bir
 
 </p>
 
-This heatmap shows us the density of trips per day of the week, by gender and usertype. It was clear from first glance the heaviest usage comes from, firstly subscribers, and secondly males. 
+This heatmap shows us the density of trips per day of the week, by gender and usertype. It is clear from first glance the heaviest usage comes from, firstly subscribers, and secondly males. 
 
-## Summary
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+## Summary:
+In summation, we can gather a list of key points from our analysis and visualizations:
 
+<li> The most frequent ride duration is 5 minutes </li>
+<li> The most popular ride times from Mon-Fri are 6am-9am and 5pm-7pm</li>
+<li> The most popular ride times for weekends are 11am-6pm</li>
+<li> Citibike users are comprised of roughly 80% annual subscribers and 20% non subscribers</li>
+<li> Thursdy and Friday are the busiest days for Citibike</li>
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
+### Additional Visualizations:
+
+Another basic visualization that would helpful would be a simple bar chart showing the distribution of male and female Citibike users, for example:
+
+<p align="center"
+
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Gender%20Dist.png)
+
+</p>
 
 [link to dashboard](https://public.tableau.com/app/profile/shawn.wiebe/viz/NYCCitibikeAnalysis_16230979095720/NYCCitibikeAnalysis)
-<br>
-story link - https://public.tableau.com/app/profile/shawn.wiebe/viz/NYCCitibikeAnalysis_16230979095720/NYCCitibikeAnalysis
+
