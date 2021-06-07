@@ -32,19 +32,29 @@ It is clear from both of our trip duration graphs that the bulk of use for Citib
 
 ### Trips by Hour of the Week:
 
-
 <p align="center"
 
 ![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Trips%20by%20Weekday%20hour.png)
 
 </p>
+
+This heatmap shows us the most popular usage times throughout the day, throughout the week. 
+
+#### Monday-Friday: 
+We can see that during the workweek, the most popular times are before 9am and after 5pm. This makes sense as most people are working 9am-5pm, thus only time before or after work to go for a bike ride, or they are using Citibike to commute to and from work.
+We can also note that 5-6pm on wednesday has much less usage than the res of the week for that timeframe, and Thursday's seem to have much more usage during that timeframe.
+#### Saturday - Sunday:
+
+The weekend paints a much different picture than Monday-Friday. We see heavier usage from 10am-5pm during the weekend, and very sparce usage before 10am.
 
 ### Trips by Hour of the week (Gender):
 <p align="center"
 
-![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Trips%20by%20Weekday%20hour.png)
+![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/Trips%20by%20Weekday%20gender%20hour.png)
 
 </p>
+
+This heatmap is the result of splitting the last heatmap by gender. We see quite the same picture: heavy usage on workdays before 10am and after 5pm, and heavier usage on weekends after 10am and before 5/6pm. Another thing that stands out is once again the additional usage from males.
 
 ### Usertypes:
 <p align="center"
@@ -52,6 +62,8 @@ It is clear from both of our trip duration graphs that the bulk of use for Citib
 ![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/short%20term%20vs%20annual%20subs.png)
 
 </p>
+
+This simple pie graph shows us the proportion of users who have an annual subscription to Citibike and the short term users. We can see from the graph that about 80% of users are subscription holders.
 
 ### Average trip duration by Birth Year:
 <p align="center"
