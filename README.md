@@ -4,7 +4,6 @@
 The purpose of this analysis was to create visualizations using New York City Citibike data in order to better understand and illustrate key data points. 
 
 ## Results 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 For this analysis we have 7 different visualizations:
 
@@ -54,7 +53,7 @@ The weekend paints a much different picture than Monday-Friday. We see heavier u
 
 </p>
 
-This heatmap is the result of splitting the last heatmap by gender. We see quite the same picture: heavy usage on workdays before 10am and after 5pm, and heavier usage on weekends after 10am and before 5/6pm. Another thing that stands out is once again the additional usage from males.
+This heatmap is the result of splitting the last heatmap by gender. We see quite the same picture: heavy usage on workdays before 10am and after 5pm, and heavier usage on weekends after 10am and before 5/6pm. Another thing that stands out is once again the heavier usage from males.
 
 ### Usertypes:
 <p align="center"
@@ -71,6 +70,7 @@ This simple pie graph shows us the proportion of users who have an annual subscr
 ![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/average%20trip%20duration%20birth%20year.png)
 
 </p>
+This area graph shows the relationship between the average trip duration and birth year (age). As you can see, the data for users that are apparently born before 1940 is very volatile, and most liekly innacurate and shouldn't be considered in our analysis. It is likely some people entered their birth year incorrectly which gave us these values bfor birth years <1940. Looking past this, it is evident that as birth year increases so does theaverage trip duration. Meaning the younger the user the longer on average they ride for. 
 
 ### Trips by Gender by Day of the Week:
 <p align="center"
@@ -79,7 +79,7 @@ This simple pie graph shows us the proportion of users who have an annual subscr
 
 </p>
 
-There is a description of the results for each visualization (7 pt)
+This heatmap shows us the density of trips per day of the week, by gender and usertype. It was clear from first glance the heaviest usage comes from, firstly subscribers, and secondly males. 
 
 ## Summary
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
