@@ -100,8 +100,6 @@ An additional basic visualization that would helpful would be a simple bar chart
 
 </p>
 
-[link to dashboard](https://public.tableau.com/app/profile/shawn.wiebe/viz/NYCCitibikeAnalysis_16230979095720/NYCCitibikeAnalysis)
-
 
 Another visualization hat would be helpful for future analysis would be a gender breakdown for usertype. This could be very useful in terms of advertising subscriptions.
 for example: 
@@ -110,3 +108,4 @@ for example:
 ![alttext](https://github.com/sd2wiebe/NYC_Citibike/blob/main/usertype%20by%20gender.png)
 </p>
 
+## [link to dashboard](https://public.tableau.com/app/profile/shawn.wiebe/viz/NYCCitibikeAnalysis_16230979095720/NYCCitibikeAnalysis)
